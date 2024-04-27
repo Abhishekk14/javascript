@@ -1,10 +1,10 @@
-let score = "33abc"
+// let score = "33abc"
 
-console.log(typeof score);
+// console.log(typeof score);
 
-let abhishek = Number(score)
-console.log(typeof abhishek);
-console.log(abhishek);
+// let abhishek = Number(score)
+// console.log(typeof abhishek);
+// console.log(abhishek);
 
 /*
 33 = 33
@@ -15,6 +15,16 @@ false = 1
 
 // boolean 0,1 value to true, flase
 
-let IsloggedIn = 0
-let BooleanIsloggedIn = Boolean(IsloggedIn) 
-console.log(BooleanIsloggedIn);
+
+
+// let IsloggedIn = 0
+// let BooleanIsloggedIn = Boolean(IsloggedIn) 
+// console.log(BooleanIsloggedIn);
+
+
+console.log(3+4*5/3);
+ 
+let a = 2
+let b = ++a ;
+
+console.log(a,b);
