@@ -15,10 +15,10 @@ if (true) {
 
 
 function one(){
-    const username = "hitesh"
+    const username = "abbhi"
 
     function two(){
-        const website = "youtube"
+        const website = "chegg"
         console.log(username);
     }
     // console.log(website);
@@ -30,9 +30,9 @@ function one(){
 // one()
 
 if (true) {
-    const username = "hitesh"
-    if (username === "hitesh") {
-        const website = " youtube"
+    const username = "abhiu"
+    if (username === "kapadiya") {
+        const website = " chegg"
         // console.log(username + website);
     }
     // console.log(website);
